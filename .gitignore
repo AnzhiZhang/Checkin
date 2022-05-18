@@ -1,0 +1,8 @@
+# IDE
+/.idea/
+/out/
+Checkin.iml
+
+# Data Files
+/password.txt
+/students.txt
